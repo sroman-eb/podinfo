@@ -9,4 +9,4 @@ spec:
         - name: podinfod
           resources:
             requests:
-              memory: 65Mi
+              memory: 66Mi
